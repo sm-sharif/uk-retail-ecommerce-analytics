@@ -97,11 +97,11 @@ uk-retail-analytics/
 
 ## Skills Demonstrated
 
-✅ Database design (3NF normalized schema)
-✅ Advanced SQL (CTEs, window functions, multi-table joins)
-✅ Statistical analysis (RFM, cohort retention)
-✅ Business intelligence (Power BI, DAX measures)
-✅ Strategic recommendations (data-driven insights)
+- Database design (3NF normalized schema)
+- Advanced SQL (CTEs, window functions, multi-table joins)
+- Statistical analysis (RFM, cohort retention)
+- Business intelligence (Power BI, DAX measures)
+- Strategic recommendations (data-driven insights)
 
 ## Key Metrics & Opportunities
 
